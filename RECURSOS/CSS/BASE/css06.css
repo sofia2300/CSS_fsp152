@@ -1,0 +1,19 @@
+h1{
+    color: forestgreen;
+    font-size: 60px;
+}
+h2,p{
+    color:chartreuse;
+    font-size: 40px;
+}
+.titulo{
+    color: darkblue;
+    font-size: 50px;
+}
+#titulo{
+    color: darksalmon;
+    font-size: 25px;
+}
+.negrita{
+    font-weight: bold;
+}

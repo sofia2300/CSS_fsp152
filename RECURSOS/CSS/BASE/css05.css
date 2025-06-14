@@ -1,0 +1,33 @@
+h1 {
+    color:darkmagenta; 
+    background-color:cornsilk;
+}
+h2 {
+    color:darkorange;
+    background-color: darkkhaki;
+}
+h3 {
+    color: crimson;
+    background-color: mediumaquamarine;
+}
+h4 {
+    color: hotpink;
+    background-color: navajowhite;
+}
+
+#parrafo{
+    color: darkslateblue;
+    background-color: lightcyan;
+}
+#introducción{
+    color: darkslategray;
+    background-color: rgb(131, 131, 19);
+}
+#prueba{
+    color: darkolivegreen;
+    background-color: lightpink;
+}
+.hola{
+    color: darkorchid;
+    background-color: lightseagreen;
+}

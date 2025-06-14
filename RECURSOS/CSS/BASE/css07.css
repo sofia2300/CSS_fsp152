@@ -1,0 +1,32 @@
+.abuelo .titulo {
+    color: brown;
+}
+
+.abuelo, .titulo{
+    color: darkblue;
+}
+h1.titulo {
+    color: darkred;
+}
+h1.titulo + h2.titulo{
+    color: deepskyblue;
+}
+h1.titulo + h3.titulo{
+    color: darkgoldenrod;
+}
+.abuelo > h3
+{
+    color: darkgreen;
+}
+h1.titulo ~ .titulo{
+    color: darkgray;
+}
+
+/* 
+<! --
+(espacio) descendiente
+>: hijo directo
++: hermano adyacente
+~: hermano general      
+ */ -->
+ 

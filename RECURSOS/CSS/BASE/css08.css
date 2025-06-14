@@ -1,0 +1,22 @@
+#titulo{
+    color: rgb(58, 212, 58);
+}
+#titulo{
+    color: red;
+}
+
+.titulo{
+    color: blueviolet;
+}
+body .titulo{
+    color: greenyellow;
+}
+body #titulo{
+    color: orchid;
+}
+.titulo{
+    color: aquamarine !important;
+}
+#titulo{
+    color: deeppink !important;
+}
