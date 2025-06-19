@@ -1,0 +1,23 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.back01 {
+    width: 100%;
+    height: 500px;
+    border: 2p solid black;
+    margin: 10px auto;
+    background-image: url(../../FOTOS/Elefante.svg);
+    background-size: contain;/*se puede usar contain para que se acomode a las medidas que le di*/
+    background-position: center;
+    background-repeat: no-repeat; /*Esto es por si quiero que la imagen se repita, si se lo quito, se repite*/
+    
+}
+
+.block02 {
+    width: 100%;
+    height: 500px;
+    border: 2p solid black;
+}

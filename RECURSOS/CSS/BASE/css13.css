@@ -1,0 +1,16 @@
+.block1{
+    display: block;
+}
+.inline {
+    display: inline-block;
+}
+
+.inBoton {
+    display: inline-block;
+    padding: 0.5em 0;
+    border-radius: 0.25em;
+    margin: 0.5m 0;
+    background-color: blue;
+    color: white;
+    text-align: center;
+}

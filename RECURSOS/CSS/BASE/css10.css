@@ -1,0 +1,9 @@
+.contenedor {
+    background-color: rgb(228, 80, 109);
+    width: 80%;
+    height: auto;
+    border: 3px solid rgb(36, 27, 28);
+    overflow: visible;
+    max-width: 600px;
+    min-width: 300px;
+}

@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.card {
+    width: 80%;
+    max-width: 000px;
+    background-color: rgb(182, 152, 209);
+    color: white;
+    margin: 0 auto;
+    margin-top: 80px;
+    padding: 40px 20px;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin: 10px auto;
+}
+
+.titulo {
+    border: 2px solid black;
+    text-align: center;
+    letter-spacing: 10px;
+    word-spacing: 100px;
+}
+.parrafo {
+    text-transform: uppercase;
+    text-align: justify;
+}
+
+.parrafouno {
+    text-transform: lowercase;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-bottom: 200px;
+}

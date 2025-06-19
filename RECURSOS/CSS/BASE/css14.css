@@ -1,0 +1,19 @@
+.nombre {
+    color: olive;
+}
+.codigo {
+    background-color: #32CD32;
+}
+
+.rgb {
+    	background-color: rgb(127, 255, 212);
+}
+
+.rgba {
+    	background-color: rgb(65, 105, 225, 3);
+}
+
+.hsl {
+    color: crimson;
+    background-color: hsl(219, 79%, 66%);
+}

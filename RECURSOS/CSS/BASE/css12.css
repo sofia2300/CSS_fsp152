@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.contenedor {
+    background-color: rgb(74, 240, 69);
+    color: rgb(104, 122, 223);
+    width: 80%;
+    height: 80%;
+    padding: 40px;
+    border: 2px solid black;
+    margin: 10px 20px 30px 40px;
+    margin: 30px;
+}
+
+.centro {
+    margin: 10px auto;
+}
+
+.izquierda {
+    margin-left: auto;
+}
