@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.contenedor {
+    width: 70%;
+    height: 500px;
+    border: 2px solid black;
+    margin: 80px auto;
+    position: relative;
+}
+
+.posicion {
+    width: 150px;
+    height: 100px;
+    font-size: 1.3rem;
+    line-height: 100px;
+    text-align: center;
+    color: white;
+}
+
+.static {
+    /* position: static ; */
+    background-color: brown;
+}
+
+.relative {
+    /* position: relative; */
+    background-color: blue;
+}
+
+.absoluto {
+    /* position: absolute; */
+    background-color: greenyellow;
+   
+}
+
+.fijo {
+    position: fixed;
+    background-color: orange;
+    top: 400px;
+    left: 200px;
+}
