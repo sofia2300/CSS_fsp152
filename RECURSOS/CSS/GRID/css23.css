@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.grid {
+    display: grid;
+    width: 80%;
+    height: 200px;
+    min-height: 400px;
+    margin: 20px auto;
+    /* grid-template-columns: 200px 30% 300px; */
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.grid > * {
+    border: 1px solid blueviolet;
+}
+/* El ">" usado aqui arriba sirve para todos los hijos del grid */
+
+.elemento {
+    width: 100px;
+    height: 100px;
+    color: white;
+    font-size: 2em;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.elemento01 {
+    background-color: red;
+}
+
+.elemento02 {
+    background-color: darkgreen;
+}
+
+.elemento03 {
+    background-color: darkblue;
+}
